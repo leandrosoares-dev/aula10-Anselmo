@@ -1,0 +1,7 @@
+#principal{
+    width: 1200px;
+    height: 1000px;
+    border: solid #000;
+    position:relative;
+    margin: auto;
+}
